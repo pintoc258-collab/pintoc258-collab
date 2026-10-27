@@ -78,36 +78,18 @@ Uso **Excel, SQL, Power BI, R Studio, Python y ArcGIS** para análisis de datos,
 ### Responsable de la Unidad de Innovación Tecnológica — **MAGAP**
 *Imbabura, Ecuador · 06/2016 – 09/2016*
 
-- Planifiqué y di seguimiento al trabajo de **42 técnicos** de la Estrategia "Hombro a Hombro".
-- Implementé sistemas de asistencia técnica y capacitación para pequeños y medianos productores.
-- Elaboré proyectos productivos y fortalecí asociaciones agropecuarias.
-
 ### Asesor Técnico — **Realflowers Ecuadorian Cía. Ltda.**
 *Bolívar, Ecuador · 09/2015 – 06/2016*
-
-- Planifiqué y ejecuté programas de aplicación fitosanitaria y fertirriego en rosas.
-- Elaboré informes de monitoreo de plagas, protocolos Agrocalidad para **trips y ácaros** y consumo de insumos por ingrediente activo.
-- Capacité al personal operativo en manejo del cultivo.
 
 ### Responsable del Proyecto de Reactivación de Café y Cacao Nacional Fino de Aroma — **MAGAP**
 *Imbabura, Ecuador · 09/2015 – 05/2016*
 
-- Lideré el equipo técnico de café, con **3 técnicos** de campo a cargo.
-- Brindé asesoría técnica, subvenciones, créditos y apoyo en comercialización a productores de café arábigo.
-
 ### Jefe Técnico — **Nintanga S.A.** (Hacienda La Verbena)
 *Ibarra, Ecuador · 03/2015 – 08/2015*
-
-- Dirigí el manejo agronómico de **75 ha** de brócoli y quinua orgánicos de exportación, con **29 operarios**.
-- Instalé un sistema de riego por **microaspersión** y cumplí normativas orgánicas JAS, EU, NOP y RNPOAE.
-- Elaboré presupuestos, proyecciones y análisis de costos de producción.
 
 ### Jefe Técnico del Proyecto San Juan — **SCC, Hacienda San Juan**
 *Urcuquí, Ecuador · 02/2012 – 02/2015*
 
-- Dirigí **95 ha** de brócoli, kale, espinaca y quinua orgánicos de exportación, con **45 operarios**.
-- Instalé riego por microaspersión, cumplí normativas orgánicas y administré compras de insumos y pagos a proveedores.
-- Realicé análisis estadístico de producción y ensayos de campo, presupuestos y análisis de costos.
 
 ### Representante Técnico — **Interoc Cúster S.A.**
 *Zona Carchi-Imbabura, Ecuador · 01/2011 – 02/2012*
@@ -117,11 +99,6 @@ Uso **Excel, SQL, Power BI, R Studio, Python y ArcGIS** para análisis de datos,
 
 ### Jefe de Cultivo de Rosas — **FalconFarms de Ecuador** (finca Manuela-Camila)
 *Tabacundo, Ecuador · 07/2007 – 12/2010*
-
-- Dirigí **12 ha de rosas** de exportación con **60 operarios**.
-- Planifiqué labores agronómicas y aplicaciones fitosanitarias para mejorar producción y calidad.
-- Medí las características de las variedades y elaboré proyecciones, presupuestos e índices de productividad.
-- Capacité al personal en manejo de planta, seguridad y salud ocupacional y medio ambiente.
 
 </details>
 
@@ -134,14 +111,6 @@ Uso **Excel, SQL, Power BI, R Studio, Python y ArcGIS** para análisis de datos,
 | [COMPLETAR: nombre] | [COMPLETAR: p. ej. dashboard de productividad y rentabilidad] | Power BI, Excel | [COMPLETAR] | [COMPLETAR] |
 | [COMPLETAR: nombre] | [COMPLETAR: p. ej. proyecciones de producción con R] | R, Python | [COMPLETAR] | [COMPLETAR] |
 
-**Hitos de campo destacados**
-
-- **Estrategia "Hombro a Hombro" (MAGAP):** coordinación de 42 técnicos.
-- **Riego por microaspersión:** instalación en 75 ha (Nintanga) y 95 ha (San Juan).
-- **Cumplimiento orgánico:** JAS, EU, NOP y RNPOAE.
-
----
-
 ## Habilidades técnicas
 
 ### Datos y análisis
@@ -150,16 +119,15 @@ Uso **Excel, SQL, Power BI, R Studio, Python y ArcGIS** para análisis de datos,
 |---|---|
 | **Excel** | Costos, tablas y gráficas dinámicas, estadística |
 | **Power BI** | Tableros de productividad y rentabilidad |
-| **R / RStudio** | Análisis de datos y proyecciones |
-| **Python** | Análisis y proyecciones |
-| **ArcGIS 10.2** | Sistemas de Información Geográfica |
+| **R / RStudio** | Análisis estadístico de ensayos de campo |
+| **Python** | Análisis estadístico y consultas de bases de datos |
+| **ArcGIS 10.2** | Sistemas de Información Geográfica, elaboración de mapas temáticos |
 
 ### Producción agrícola
 
 - **Cultivos:** rosas de exportación, flor tinturada, arándanos
-- **Manejo:** **MIRFE** y **MIPE**
-- **Agronomía:** fitosanidad, fertirriego, labores agronómicas
-- **Operación:** postcosecha, mantenimiento, programación de cosecha y pedidos
+- **Agronomía:** nutrición vegetal, fitosanidad, fertirriego, labores agronómicas
+- **Operación:** postcosecha y parámetros de calidad, programación de cosecha y pedidos
 
 ### Gestión
 
@@ -170,7 +138,7 @@ Uso **Excel, SQL, Power BI, R Studio, Python y ArcGIS** para análisis de datos,
 ### Sistemas y normativas
 
 - **Sistemas de producción:** Venture, Unosoft, Rendisoft
-- **Certificaciones y normas:** Florverde, JAS, EU, NOP, RNPOAE
+- **Certificaciones y normas:** Florverde, Fair Trade, JAS, EU, NOP, RNPOAE
 - **Otros:** Seguridad y Salud Ocupacional, gestión ambiental
 
 ---
@@ -204,14 +172,10 @@ Uso **Excel, SQL, Power BI, R Studio, Python y ArcGIS** para análisis de datos,
 | Idioma | Nivel |
 |---|---|
 | Español | Nativo |
-| Inglés | Profesional (suficiencia ESPE; octavo nivel, Escuela Politécnica Nacional) · [COMPLETAR: nivel de dominio] |
+| Inglés | Profesional (suficiencia ESPE; octavo nivel, Escuela Politécnica Nacional) · Nivel B1 |
 
 ---
 
-## Otros datos
-
-- Licencia de conducir tipo B
-- Referencias disponibles a solicitud
 Estructura de archivos recomendada
 text
 christian-pinto-cv/        ← [COMPLETAR: nombre del repo]
