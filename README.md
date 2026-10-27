@@ -118,6 +118,7 @@ Uso **Excel, SQL, Power BI, R Studio, Python y ArcGIS** para análisis de datos,
 | Herramienta | Uso |
 |---|---|
 | **Excel** | Costos, tablas y gráficas dinámicas, estadística |
+| **SQL** | Consultas de base de datos |
 | **Power BI** | Tableros de productividad y rentabilidad |
 | **R / RStudio** | Análisis estadístico de ensayos de campo |
 | **Python** | Análisis estadístico y consultas de bases de datos |
