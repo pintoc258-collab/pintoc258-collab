@@ -33,7 +33,7 @@
 **Gerente Técnico de rosas** con más de **19 años** de experiencia en producción de exportación.
 He liderado fincas de hasta **21 ha** y equipos de hasta **250 operarios**.
 Experto en **MIRFE**, **MIPE**, fitosanidad, fertirriego y postcosecha.
-Uso **Excel, Power BI, R, Python y ArcGIS** para proyecciones, presupuestos y análisis de rentabilidad.
+Uso **Excel, SQL, Power BI, R Studio, Python y ArcGIS** para análisis de datos, formulación de indicadores y toma de decisiones.
 **Ingeniero Agropecuario** con **Maestría en Sistemas de Gestión Ambiental**.
 
 ---
@@ -46,9 +46,11 @@ Uso **Excel, Power BI, R, Python y ArcGIS** para proyecciones, presupuestos y an
 - Dirijo la producción de **17 ha** de rosas de exportación.
 - Lidero las jefaturas de **postcosecha, mantenimiento, MIRFE y MIPE**.
 - Gestiono un equipo de **180 operarios**.
-- Aplico el manejo **MIRFE** del cultivo de rosas.
-- Analizo proyecciones, presupuestos y ejecuciones para obtener índices de **productividad y rentabilidad**.
-- [COMPLETAR: confirmar herramientas usadas en este cargo]
+- Aplico el manejo **MIRFE y MIPE** del cultivo de rosas.
+- Analizo proyecciones, presupuestos y ejecuciones para obtener índices de **productividad y rentabilidad** utilizando Power BI, R Studio y Phyton.
+- Logro: se cumplirá el presupuesto de producción a dos meses del cierre del año.
+- Logro: mejoré la calidad del tallo (mayor proporción de 50 y 60 cm y menor proporción de 40 cm) frente al período anterior.
+
 
 ### Gerente Técnico — **Unidad de Producción Hojaverde Cía. Ltda.**
 *Cayambe, Ecuador · 11/2018 – 02/2026*
@@ -58,8 +60,8 @@ Uso **Excel, Power BI, R, Python y ArcGIS** para proyecciones, presupuestos y an
 - Gestioné un equipo de **250 operarios**.
 - Apliqué el manejo **MIRFE** en rosas y arándanos.
 - Programé y ejecuté pedidos de **flor tinturada**.
-- Elaboré proyecciones, presupuestos y ejecuciones para obtener índices de productividad y rentabilidad.
-- [COMPLETAR: logros cuantificables (%, USD, rendimiento)]
+- Elaboré proyecciones, presupuestos y ejecuciones para obtener índices de productividad y rentabilidad utilizando herramientas de R Studio y Power BI.
+- Logro: posicioné la unidad de producción a mi cargo como la más rentable de las cuatro unidades del grupo florícola, con una exportación anual cercana a los 16 millones de tallos.
 
 ### Jefe de Producción — **BellaRo S.A.**
 *Tabacundo, Ecuador · 09/2016 – 11/2018*
@@ -68,6 +70,7 @@ Uso **Excel, Power BI, R, Python y ArcGIS** para proyecciones, presupuestos y an
 - Planifiqué y ejecuté programas semanales de **fitosanidad y fertirriego**.
 - Elaboré proyecciones, presupuestos y ejecuciones para obtener índices de productividad.
 - Capacité al personal en manejo de planta, MIPE, seguridad y salud ocupacional, medio ambiente y liderazgo.
+- Logro: posicioné mi unidad en el primer lugar en largo ponderado de tallo (64 cm) frente a las otras dos unidades, manteniendo además el mayor nivel de producción.
 
 <details>
 <summary><b>Experiencia anterior (2007 – 2016)</b></summary>
