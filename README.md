@@ -102,8 +102,7 @@ Uso **Excel, SQL, Power BI, R Studio, Python y ArcGIS** para análisis de datos,
 
 | Proyecto | Descripción | Tecnologías | Repo | Demo |
 |---|---|---|---|---|
-| [COMPLETAR: nombre] | [COMPLETAR: p. ej. dashboard de productividad y rentabilidad] | Power BI, Excel | [COMPLETAR] | [COMPLETAR] |
-| [COMPLETAR: nombre] | [COMPLETAR: p. ej. proyecciones de producción con R] | R, Python | [COMPLETAR] | [COMPLETAR] |
+| Predicción de ventas ecommerce| dashboard de productividad y rentabilidad] | Phyton | 
 
 ## Habilidades técnicas
 
