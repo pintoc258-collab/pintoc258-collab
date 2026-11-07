@@ -52,18 +52,18 @@ Uso **Excel, SQL, Power BI, R Studio, Python y ArcGIS** para análisis de datos,
 ### Gerente Técnico — **Unidad de Producción Hojaverde Cía. Ltda.**
 *Cayambe, Ecuador · 11/2018 – 02/2026*
 
-•	Dirigí la producción de 21 ha de rosas de exportación y 1,6 ha de arándanos, con un equipo de 250 operarios y las jefaturas de postcosecha, mantenimiento, MIRFE y MIPE a mi cargo, enfocados en mejorar la productividad y calidad del producto.
-•	Elaboré proyecciones, presupuestos y ejecuciones para controlar costos y medir la productividad y la rentabilidad.
-•	Implementé el proyecto de flor tinturada, con un procesamiento de 200.000 tallos mensuales, que abrió el mercado chino e incrementó las ventas en el mercado ruso.
+-  Dirigí la producción de 21 ha de rosas de exportación y 1,6 ha de arándanos, con un equipo de 250 operarios y las jefaturas de postcosecha, mantenimiento, MIRFE y MIPE a mi cargo, enfocados en mejorar la productividad y calidad del producto.
+-  Elaboré proyecciones, presupuestos y ejecuciones para controlar costos y medir la productividad y la rentabilidad.
+-  Implementé el proyecto de flor tinturada, con un procesamiento de 200.000 tallos mensuales, que abrió el mercado chino e incrementó las ventas en el mercado ruso.
 
 
 ### Jefe de Producción — **BellaRo S.A.**
 *Tabacundo, Ecuador · 09/2016 – 11/2018*
 
-•	Dirigí la producción de 16 ha de rosas de exportación, con un equipo de 80 operarios.
-•	Planifiqué y ejecuté programas semanales de fitosanidad, fertirriego y labores agronómicas para mantener la calidad y la productividad del cultivo.
-•	Elaboré proyecciones, presupuestos y ejecuciones para controlar costos y medir la productividad.
-•	Capacité al personal en manejo de planta, MIPE, seguridad y salud ocupacional, medio ambiente, liderazgo y trabajo en equipo.
+-  Dirigí la producción de 16 ha de rosas de exportación, con un equipo de 80 operarios.
+-  Planifiqué y ejecuté programas semanales de fitosanidad, fertirriego y labores agronómicas para mantener la calidad y la productividad del cultivo.
+-  Elaboré proyecciones, presupuestos y ejecuciones para controlar costos y medir la productividad.
+-  Capacité al personal en manejo de planta, MIPE, seguridad y salud ocupacional, medio ambiente, liderazgo y trabajo en equipo.
 
 
 <details>
