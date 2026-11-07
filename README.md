@@ -102,7 +102,7 @@ Uso **Excel, SQL, Power BI, R Studio, Python y ArcGIS** para análisis de datos,
 
 | Proyecto | Descripción | Tecnologías | Repo | Demo |
 |---|---|---|---|---|
-| Predicción de ventas ecommerce| dashboard de productividad y rentabilidad] | Phyton | 
+| Predicción de ventas ecommerce| dashboard de predicción monto  de ventas | Phyton | 
 
 ## Habilidades técnicas
 
