@@ -171,45 +171,7 @@ Uso **Excel, SQL, Power BI, R Studio, Python y ArcGIS** para análisis de datos,
 
 ---
 
-Estructura de archivos recomendada
-text
-christian-pinto-cv/        ← [COMPLETAR: nombre del repo]
-├── README.md              ← el CV (se ve en la portada del repo)
-├── assets/                ← opcional: foto, capturas de dashboards Power BI
-├── LICENSE                ← opcional (p. ej. CC BY 4.0 para el contenido)
-├── index.md               ← solo para GitHub Pages
-└── _config.yml            ← solo para GitHub Pages
 
-Si quieres que el CV aparezca en tu perfil de GitHub, nombra el repo igual que tu usuario de GitHub.
-
-GitHub Pages
-
-index.md: es el mismo contenido que el README, con este encabezado al inicio (está en el archivo adjunto):
-
-yaml
----
-title: Christian Pinto Ormaza — CV
-description: Gerente Técnico de Producción de Rosas de Exportación
----
-
-_config.yml
-
-yaml
-theme: jekyll-theme-minimal
-title: Christian Pinto Ormaza
-description: Gerente Técnico de Producción de Rosas de Exportación | Análisis de Datos
-lang: es
-
-Activar Pages:
-
-En el repo, ve a Settings → Pages.
-En Build and deployment → Source, elige Deploy from a branch.
-Selecciona la rama main y la carpeta / (root), y pulsa Save.
-En 1–2 minutos estará en https://TU-USUARIO.github.io/NOMBRE-REPO/.
-Qué revisar antes de publicar
-Teléfono omitido: no puse el 0997497588 porque el repo es público. Si lo quieres, agrégalo a la línea de contacto.
-Email: usé pintoc13@hotmail.com, que aparece en tu CV y en tu LinkedIn.
-Datos que no estaban en tus documentos y dejé como [COMPLETAR]:
 tus enlaces de GitHub y portafolio;
 los proyectos con repo y demo (tu CV no trae proyectos de software, así que agregué “Hitos de campo” con datos reales);
 los logros con métricas (%, USD, rendimiento) en Hojaverde;
