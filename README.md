@@ -43,9 +43,9 @@ Uso **Excel, SQL, Power BI, R Studio, Python y ArcGIS** para análisis de datos,
 ### Gerente Técnico — **Agrifeg S.A.** (finca Anne Flowers)
 *Cayambe, Ecuador · 03/2026 – actualidad*
 
-•	Dirijo la producción de 17 ha de rosas de exportación, con un equipo de 180 operarios y las jefaturas de postcosecha, mantenimiento, MIPE y MIRFE a mi cargo.
-•	Implemento el Manejo Integrado de Riego y Fertilización (MIRFE) y el Manejo Integrado de Plagas y Enfermedades (MIPE) para sostener la productividad y la calidad del cultivo.
-•	Analizo proyecciones, presupuestos y ejecuciones con Excel, Power BI, R y Python para controlar costos y medir la productividad y la rentabilidad.
+-  Dirijo la producción de 17 ha de rosas de exportación, con un equipo de 180 operarios y las jefaturas de postcosecha, mantenimiento, MIPE y MIRFE a mi cargo.
+-  Implemento el Manejo Integrado de Riego y Fertilización (MIRFE) y el Manejo Integrado de Plagas y Enfermedades (MIPE) para sostener la productividad y la calidad del cultivo.
+-  Analizo proyecciones, presupuestos y ejecuciones con Excel, Power BI, R y Python para controlar costos y medir la productividad y la rentabilidad.
 
 
 
