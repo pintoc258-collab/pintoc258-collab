@@ -43,34 +43,28 @@ Uso **Excel, SQL, Power BI, R Studio, Python y ArcGIS** para análisis de datos,
 ### Gerente Técnico — **Agrifeg S.A.** (finca Anne Flowers)
 *Cayambe, Ecuador · 03/2026 – actualidad*
 
-- Dirijo la producción de **17 ha** de rosas de exportación.
-- Lidero las jefaturas de **postcosecha, mantenimiento, MIRFE y MIPE**.
-- Gestiono un equipo de **180 operarios**.
-- Aplico el manejo **MIRFE y MIPE** del cultivo de rosas.
-- Analizo proyecciones, presupuestos y ejecuciones para obtener índices de **productividad y rentabilidad** utilizando Power BI, R Studio y Phyton.
-- Logro: se cumplirá el presupuesto de producción a dos meses del cierre del año.
-- Logro: mejoré la calidad del tallo (mayor proporción de 50 y 60 cm y menor proporción de 40 cm) frente al período anterior.
+•	Dirijo la producción de 17 ha de rosas de exportación, con un equipo de 180 operarios y las jefaturas de postcosecha, mantenimiento, MIPE y MIRFE a mi cargo.
+•	Implemento el Manejo Integrado de Riego y Fertilización (MIRFE) y el Manejo Integrado de Plagas y Enfermedades (MIPE) para sostener la productividad y la calidad del cultivo.
+•	Analizo proyecciones, presupuestos y ejecuciones con Excel, Power BI, R y Python para controlar costos y medir la productividad y la rentabilidad.
+
 
 
 ### Gerente Técnico — **Unidad de Producción Hojaverde Cía. Ltda.**
 *Cayambe, Ecuador · 11/2018 – 02/2026*
 
-- Dirigí la producción de **21 ha de rosas** de exportación y **1,6 ha de arándanos**.
-- Lideré las jefaturas de postcosecha, mantenimiento, MIRFE y MIPE.
-- Gestioné un equipo de **250 operarios**.
-- Apliqué el manejo **MIRFE** en rosas y arándanos.
-- Programé y ejecuté pedidos de **flor tinturada**.
-- Elaboré proyecciones, presupuestos y ejecuciones para obtener índices de productividad y rentabilidad utilizando herramientas de R Studio y Power BI.
-- Logro: posicioné la unidad de producción a mi cargo como la más rentable de las cuatro unidades del grupo florícola, con una exportación anual cercana a los 16 millones de tallos.
+•	Dirigí la producción de 21 ha de rosas de exportación y 1,6 ha de arándanos, con un equipo de 250 operarios y las jefaturas de postcosecha, mantenimiento, MIRFE y MIPE a mi cargo, enfocados en mejorar la productividad y calidad del producto.
+•	Elaboré proyecciones, presupuestos y ejecuciones para controlar costos y medir la productividad y la rentabilidad.
+•	Implementé el proyecto de flor tinturada, con un procesamiento de 200.000 tallos mensuales, que abrió el mercado chino e incrementó las ventas en el mercado ruso.
+
 
 ### Jefe de Producción — **BellaRo S.A.**
 *Tabacundo, Ecuador · 09/2016 – 11/2018*
 
-- Dirigí **16 ha de rosas** de exportación con **80 operarios**.
-- Planifiqué y ejecuté programas semanales de **fitosanidad y fertirriego**.
-- Elaboré proyecciones, presupuestos y ejecuciones para obtener índices de productividad.
-- Capacité al personal en manejo de planta, MIPE, seguridad y salud ocupacional, medio ambiente y liderazgo.
-- Logro: posicioné mi unidad en el primer lugar en largo ponderado de tallo (64 cm) frente a las otras dos unidades, manteniendo además el mayor nivel de producción.
+•	Dirigí la producción de 16 ha de rosas de exportación, con un equipo de 80 operarios.
+•	Planifiqué y ejecuté programas semanales de fitosanidad, fertirriego y labores agronómicas para mantener la calidad y la productividad del cultivo.
+•	Elaboré proyecciones, presupuestos y ejecuciones para controlar costos y medir la productividad.
+•	Capacité al personal en manejo de planta, MIPE, seguridad y salud ocupacional, medio ambiente, liderazgo y trabajo en equipo.
+
 
 <details>
 <summary><b>Experiencia anterior (2007 – 2016)</b></summary>
